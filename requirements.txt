@@ -5,3 +5,5 @@ pillow
 numpy
 opencv-python-headless
 pydantic
+python-dotenv
+google-generativeai
